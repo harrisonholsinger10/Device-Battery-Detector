@@ -1,7 +1,5 @@
 .idea
 
-DeviceBatteryDetector.iml
-
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -10,3 +8,4 @@ DeviceBatteryDetector.iml
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml.idea
+.iml
